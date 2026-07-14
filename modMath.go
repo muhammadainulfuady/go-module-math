@@ -9,5 +9,5 @@ func Kali(a int, b int) int {
 }
 
 func Kurang(a int, b int) int {
-	return a + b
+	return a - b
 }
